@@ -4,12 +4,12 @@
 
 **✨ Hanseunghoon ✨**
 
-I'm a noob Student Developer.
+cout << **"I'm a noob Student Developer."** << endl;
 
-I've passion for UI effects at Android, Web.
+console.log("**I've passion for UI effects at Android, Web.**");
 
-My Skills are HTML, CSS, JS, Java(Android), C++, Python(Data) and React.
+print ("**My Skills are HTML, CSS, JS, Java(Android), C++, Python(Data) and React.**")
 
-Here my git is like Growth record for me.
+System.out.printfln("**Here my git is like Growth record for me.**");
 
 ![Hanseunghoon's github stats](https://github-readme-stats.vercel.app/api?username=Hanseunghoon&show_icons=true)
