@@ -6,7 +6,7 @@
 
 cout << **"I'm a noob Student Developer."** << endl;
 
-console.log("**I've passion for UI effects at Android, Web.**");
+console.log("**I've passion for UI effects and useful function at Android, Web.**");
 
 print ("**My Skills are HTML, CSS, JS, Java(Android), C++, Python(Data) and React.**")
 
