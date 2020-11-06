@@ -4,7 +4,7 @@
 
 **✨ Hanseunghoon ✨**
 
-cout << **"I'm a noob Student Developer."** << endl;
+cout << **"I'm a noob Student Developer and Songwriter."** << endl;
 
 console.log("**I've passion for UI effects and useful function at Android, Web.**");
 
@@ -13,3 +13,10 @@ print ("**My Skills are HTML, CSS, JS, Java(Android), C++, Python(Data) and Reac
 System.out.printfln("**Here my git is like Growth record for me.**");
 
 ![Hanseunghoon's github stats](https://github-readme-stats.vercel.app/api?username=Hanseunghoon&show_icons=true)
+
+### My Site
+
+- [Naver Blog (old)](http://blog.naver.com/3246902)
+- [Tistory Blog (new)](https://1coding.tistory.com/)
+- [Soundcloud](https://soundcloud.com/hankyulhoon)
+- [Instagram](https://www.instagram.com/hankyul20)
