@@ -15,8 +15,6 @@ System.out.printfln("**Here my git is like Growth record for me.**");
 
 ![Hanseunghoon's github stats](https://github-readme-stats.vercel.app/api?username=Hanseunghoon&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanseunghoon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### My Site
 
 - [Naver Blog (old)](http://blog.naver.com/3246902)
