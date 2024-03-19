@@ -13,8 +13,4 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white"/>
   
   <hr/>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ok4343)](https://solved.ac/ok4343)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hanseunghoon&show_icons=true&theme=radical)
-
 </div>
